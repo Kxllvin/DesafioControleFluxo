@@ -7,7 +7,6 @@ Projeto desenvolvido com o objetivo de praticar conceitos fundamentais de Java, 
 
 ## 🛠️ Tecnologias Utilizadas
 - Java SE
-- IntelliJ IDEA / Eclipse (opcional)
 
 
 ## 📚 Conceitos Praticados
